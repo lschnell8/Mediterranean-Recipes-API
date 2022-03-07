@@ -28,7 +28,7 @@ module.exports = [
   },
   {
     name: 'Salmon with Capers',
-    image: 'https://www.acouplecooks.com/wp-content/uploads/2020/02/oven-baked-salmon-with-capers-015.jpg', 
+    image: 'https://www.acouplecooks.com/wp-content/uploads/2020/02/oven-baked-salmon-with-capers-006.jpg', 
     ingredients: [
       '4 (6-ounce) salmon fillets',
       'Olive oil, for brushing',
