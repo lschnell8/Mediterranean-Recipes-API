@@ -1,5 +1,7 @@
 # Mediterranean-Recipes-API
 
+- [Deployed API](https://guarded-oasis-26838.herokuapp.com/api/v1/recipes)
+- [Deployed UI](https://whispering-island-50737.herokuapp.com/)
 - [UI Repo](https://github.com/lschnell8/Food-For-Thought)
 - [Project Specifications](https://frontend.turing.edu/projects/module-3/showcase.html)
 
