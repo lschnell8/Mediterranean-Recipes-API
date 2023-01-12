@@ -13,7 +13,6 @@ app.get('/', (request, response) => {
   response.send(`Here's some Food For Thought`);
 });
 
-
 app.get('/api/v1/recipes', (request, response) => {
   const recipes = app.locals.recipes
   response.status(200).json(recipes)
