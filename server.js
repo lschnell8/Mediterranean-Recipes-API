@@ -9,13 +9,13 @@ app.set('port', process.env.PORT || 3001);
 app.locals.title = 'Food For Thought API';
 app.locals.recipes = recipes 
 
-app.get('/', (request, response) => {
+app.get('/api', (request, response) => {
   response.send(`Here's some Food For Thought`);
 });
 
 app.get('/api/v1/recipes', (request, response) => {
   const recipes = app.locals.recipes
-  response.status(200).json(recipes)
+  response.status(200).json(recipes
 });
 
 app.get('/api/v1/recipes/:id', (request, response) => {
