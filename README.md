@@ -1,7 +1,7 @@
 # Mediterranean-Recipes-API
 
-- [Deployed API](https://guarded-oasis-26838.herokuapp.com/api/v1/recipes)
-- [Deployed UI](https://whispering-island-50737.herokuapp.com/)
+- [Deployed API](https://mediterranean-recipes.fly.dev/api/v1/recipes)
+- [Deployed UI](https://food-for-thought-nu.vercel.app/)
 - [UI Repo](https://github.com/lschnell8/Food-For-Thought)
 - [Project Specifications](https://frontend.turing.edu/projects/module-3/showcase.html)
 
@@ -34,6 +34,7 @@ This server was written in JavaScript using Express and Node with intent for acc
 - JavaScript
 - Node
 - Postman
+- Fly.io
 
 ## Authors
 
